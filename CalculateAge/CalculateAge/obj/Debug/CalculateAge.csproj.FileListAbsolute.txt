@@ -1,0 +1,7 @@
+D:\DotNETBatch2021\Assignments\ConsoleAssignment27Jan2021\CalculateAge\CalculateAge\bin\Debug\CalculateAge.exe.config
+D:\DotNETBatch2021\Assignments\ConsoleAssignment27Jan2021\CalculateAge\CalculateAge\bin\Debug\CalculateAge.exe
+D:\DotNETBatch2021\Assignments\ConsoleAssignment27Jan2021\CalculateAge\CalculateAge\bin\Debug\CalculateAge.pdb
+D:\DotNETBatch2021\Assignments\ConsoleAssignment27Jan2021\CalculateAge\CalculateAge\obj\Debug\CalculateAge.csprojAssemblyReference.cache
+D:\DotNETBatch2021\Assignments\ConsoleAssignment27Jan2021\CalculateAge\CalculateAge\obj\Debug\CalculateAge.csproj.CoreCompileInputs.cache
+D:\DotNETBatch2021\Assignments\ConsoleAssignment27Jan2021\CalculateAge\CalculateAge\obj\Debug\CalculateAge.exe
+D:\DotNETBatch2021\Assignments\ConsoleAssignment27Jan2021\CalculateAge\CalculateAge\obj\Debug\CalculateAge.pdb
